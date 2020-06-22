@@ -1,0 +1,54 @@
+"Onboarding_title_1" = "Liittymällä Ketjuun kannat kortesi kekoon koronaviruksen löytämiseksi ja pysäyttämiseksi.";
+"Onboarding_title_2" = "Kohtaamiset tallennetaan anonyymisti Bluetooth-teknologian avulla.";
+"Onboarding_title_3" = "Ilmoitamme sinulle välittömästi jos olet altistunut koronavirukselle.";
+
+"Next_button" = "Seuraava";
+"Confirm_button" = "Vahvista";
+
+"Next_bluetooth" = "Salli Bluetooth";
+"Next_notifications" = "Salli ilmoitukset";
+
+"Upload_button_title" = "Sairastuitko?";
+"Confirm_upload_title" = "Jaa tartuntatieto";
+"Upload_title" = "Sairastuitko?";
+"Phone_number_title" = "Syötä puhelinnumero";
+"Phone_number_subtitle" = "Puhelinnumeroa käytetään PIN-koodin tarkastusta varten, sitä ei jaeta eteenpäin.";
+"Phone_verify_pin_title" = "Syötä PIN-koodi";
+"Phone_verify_pin_subtitle" = "Vahvista tartuntatiedon anonyymi jakaminen hoitohenkilökunnalta saamallasi PIN-koodilla.";
+
+"Home_title_active" = "Ketju on päällä!";
+"Home_title_bluetooth_off" = "Bluetooth kiinni";
+"Home_title_bluetooth_denied" = "Salli Bluetooth-yhteydet";
+"Home_title_uploaded" = "Kohtaamisavain jaettu";
+"Home_description_active" = "Pidä sovellus aktiivisena koko ajan.";
+"Home_description_bluetooth_off" = "Kytke Bluetooth-yhteys puhelimesi asetuksissa.";
+"Home_description_bluetooth_denied" = "Salli sovellukselle Bluetooth-yhteydet havaitaksesi kohtaamiset muiden sovelluksen käyttäjien kanssa.";
+"Home_description_uploaded" = "Tartuntatieto jaettu, hoitohenkilökunta kiittää!";
+"Home_app_settings_button" = "Avaa Bluetooth";
+
+"Upload_error_title" = "Virhe";
+"Upload_error_already_infected" = "Olet jo lähettänyt tiedon sairastumisesta.";
+"Upload_error_network" = "Häiriö verkkoyhteydessä, yritä uudelleen";
+
+"Exposed_label_none" = "Ei havaittuja altistumisia";
+"Exposed_label_found" = "Sinulla on mahdollinen koronavirusaltistuminen";
+"Exposed_button" = "Näytä altistumiset";
+
+"Exposure_text_one" = "altistuminen";
+"Exposure_text" = "altistumista";
+
+"Notification_title" = "Varoitus";
+"Notification_message" = "Olet saattanut altistua koronavirukselle.";
+
+"Pilot_banner_text" = "Tekninen pilotti";
+
+"Code_input_title" = "Syötä henkilökohtainen nelimerkkinen testi-ID";
+
+"Close_button" = "Sulje";
+"Share_db_button" = "Jaa tietokanta";
+"Share_email" = "Sähköposti";
+"Share_other" = "Muu...";
+"Cancel_button" = "Peru";
+
+"Final_title" = "Sovellus suljetaan";
+"Final_message" = "Tämä sovellus ei ole enää käytettävissä";
